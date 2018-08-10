@@ -32,3 +32,9 @@ golang包管理的前世今生：
 
 http://www.infoq.com/cn/articles/history-go-package-management
 
+golang new and make:
+
+http://www.cnblogs.com/hustcat/p/4004889.html
+
+
+
