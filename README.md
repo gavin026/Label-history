@@ -36,5 +36,9 @@ golang new and make:
 
 http://www.cnblogs.com/hustcat/p/4004889.html
 
+golang string and slice
+
+https://sheepbao.github.io/post/golang_byte_slice_and_string/
+
 
 
