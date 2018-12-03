@@ -47,4 +47,9 @@ block chain
 https://blog.csdn.net/c36qUCnS2zuqF6/article/details/79958701
 
 
+heap
+
+http://www.cnblogs.com/vamei/archive/2013/03/20/2966612.html
+
+
 
