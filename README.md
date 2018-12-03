@@ -22,6 +22,8 @@ https://github.com/mrekucci/epi
 
 https://github.com/cristaloleg/go-advices
 
+https://hit-alibaba.github.io/interview/basic/algo/Hash-Table.html
+
 
 框架的学习方法：
 
